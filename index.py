@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 cap = cv.VideoCapture(0)
-
+#in the name of god
 # take first frame of the video
 ret,frame = cap.read()
 
