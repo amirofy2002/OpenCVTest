@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 cap = cv.VideoCapture(0)
-#version 2
+#version 2.1
 #in the name of god
 while(1):
 
